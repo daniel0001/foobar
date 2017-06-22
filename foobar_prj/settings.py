@@ -25,7 +25,7 @@ SECRET_KEY = 'vq^hod30)4no-!%@p^g#+ogw!yn5*3$1rji1ezj8(k1hy&45rj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sheltered-meadow-56179.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
