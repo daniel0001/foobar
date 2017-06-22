@@ -1,0 +1,1 @@
+web: gunicorn foobar_prj.wsgi:application
